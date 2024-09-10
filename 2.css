@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #7abaee; 
+}
+
+img {
+    max-width: 30%;
+    height: auto;
+    display: block;
+    margin: 1rem auto;
+}
+ p{
+    height: auto;
+    display: block;
+    margin: 1rem auto;
+}

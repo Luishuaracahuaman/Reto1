@@ -3,17 +3,58 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-color: #7abaee; 
+    background-color: #5f6bdb; 
 }
 
 img {
     max-width: 30%;
-    height: auto;
     display: block;
     margin: 1rem auto;
 }
- p{
-    height: auto;
-    display: block;
-    margin: 1rem auto;
+
+h1 ,h2, h3{
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+    text-align-last: justify;
+    word-break: break-all;
+}
+
+#enlaces {
+    text-align: center; 
+}
+
+
+.Hora{
+
+    text-align: center;
+}
+
+iframe {
+    display: block; 
+    margin: 0 auto; 
+}
+
+
+table {
+    margin: 0 auto; 
+    border-collapse: collapse; 
+    width: 80%; 
+}
+
+th, td {
+    border: 1px solid #ddd; 
+    padding: 8px; 
+    text-align: center; 
+}
+
+th {
+    background-color: #f2f2f2; 
+}
+
+#formulario {
+    text-align: center; 
+    margin: 20px; 
 }
